@@ -22,7 +22,7 @@
 	},
 	"dependencies": {
   "fastestsmallesttextencoderdecoder": "^1.0.0",
-  "dns-packet": "^5.x.x",
+  "dns-packet": "^5.6.1",
   "buffer": "^6.0.3",
   "ip-address": "^10.0.1",
   "js-base64": "^3.7.8",
